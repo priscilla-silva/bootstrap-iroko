@@ -1,0 +1,47 @@
+.navbar-brand {
+  font-family: "Aqua Grotesque", sans-serif;
+}
+
+.nav-link {
+  font-family: "Roboto Slab", serif;
+  font-weight: bolder;
+}
+
+.container {
+  margin: 50px;
+  width: 50%;
+}
+
+h1 {
+  font-family: "Aqua Grotesque", sans-serif;
+}
+
+h2 {
+  font-family: "Roboto Slab", serif;
+  font-size: 22px;
+  line-height: 32px;
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  background-color: white;
+  color: black;
+  border: 0px;
+}
+.btn-primary:hover {
+  background-color: grey;
+}
+
+.btn-danger {
+  background-color: black;
+  color: white;
+  border: 0px;
+  margin-left: 10px;
+}
+.btn-danger:hover {
+  background-color: grey;
+}
+
+body {
+  background-color: gainsboro;
+}

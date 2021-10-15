@@ -1,1 +1,8 @@
 @use 'variables';
+
+@import 'nav';
+@import 'card_one';
+
+body {
+    background-color:gainsboro;
+}
