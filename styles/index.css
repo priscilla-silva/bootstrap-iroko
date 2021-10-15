@@ -9,7 +9,6 @@
 
 .container {
   margin: 50px;
-  width: 50%;
 }
 
 h1 {
@@ -31,6 +30,12 @@ h2 {
 .btn-primary:hover {
   background-color: grey;
 }
+.btn-primary:focus {
+  background-color: grey;
+  outline: none;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
 
 .btn-danger {
   background-color: black;
@@ -40,6 +45,12 @@ h2 {
 }
 .btn-danger:hover {
   background-color: grey;
+}
+.btn-danger:focus {
+  background-color: grey;
+  outline: none;
+  -webkit-box-shadow: none;
+          box-shadow: none;
 }
 
 body {
